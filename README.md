@@ -2,7 +2,7 @@
 
 A project assignment (yet again), this time it's about HTTP-based local network file transferring (just like the name says)
 
-It's supposed to be TCP, but more interesting to do a web based interface instead.
+The idea originally to be TCP-based, but it was more interesting to do a web based interface instead.
 
 ## Some core components
 
@@ -31,18 +31,18 @@ Now simply just run.
 cargo run
 ```
 
-The port resides at `3000` with maximum input size of `1GiB`, which can be changed if `UPLOAD_LIMIT` environment variable is set
+The port resides at `3000` with maximum input size of `1 GiB`, which can be changed if `UPLOAD_LIMIT` environment variable is set
 to a numeric string.
 
 ## Notes
 
 This was, **severely rushed**. With the web interface completely handled by a LLM, and being pressured by 500 more assignments
-with 5 days left until finals, this is just completely tiring. I absolutely hate it.
+with 5 days left until finals, this is just completely tiring. Completely unbearable.
 This year has not been good academically and I still have yet to create a report of this.
 
-I also was planning to create a localized Thai translation but welp, name constraints.
+I also was planning to create a localized Thai translation but welp, time constraints.
 
-Absolute bullshit.
+Fuck.
 
 ## License
 
