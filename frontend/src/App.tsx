@@ -409,9 +409,9 @@ export default function App() {
           </div>
         )}
       </section>
-      <a target='_blank' href='https://github.com/Horstaufmental/local-network-file-transfer' className='footer'>
-        Github Repository
-      </a>
+      <div className='footer'>
+        <a target='_blank' href='https://github.com/Horstaufmental/local-network-file-transfer'>Github Repository</a> · Licensed in Apache 2.0
+      </div>
     </>
   )
 }

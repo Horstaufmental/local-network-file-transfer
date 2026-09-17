@@ -381,4 +381,5 @@ table.files {
 
 /* Footer / utils */
 .footer { font: 11px var(--mono); color: var(--text-muted); text-align: center; padding-top: 4px; }
+.footer a { color: var(--text-muted); }
 .sr-only { position: absolute; width:1px; height:1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; }
