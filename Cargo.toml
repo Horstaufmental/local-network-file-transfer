@@ -1,7 +1,11 @@
 [package]
 name = "local-network-file-transfer"
 version = "0.1.0"
+authors = ["Horstaufmental"]
 edition = "2024"
+repository = "https://github.com/Horstaufmental/local-network-file-transfer"
+license = "Apache-2.0"
+readme = "README.md"
 
 [dependencies]
 tokio = { version = "1.53.1", features = ["full"] }
